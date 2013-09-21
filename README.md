@@ -7,6 +7,8 @@ This version is increadibly simplistic and is just meant for commuters like me
 that don't own an iPhone. It retrieves articles through the Prismatic API
 and presents to you with the help of jQuery Mobile and Angular.JS.
 
+**[Try it out!](http://bripkens.github.io/prismatic-mobile/)**
+
 # Limitations
 Due to browser security policies and the way the Prismatic API works, I could
 not implement certain features that Prismatic web app provides. Among others,
