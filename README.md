@@ -1,7 +1,7 @@
 # Prismatic for Mobile
 
 A very simple mobile (web app) version of
-[Prismatic application](http://getprismatic.com/).
+[Prismatic](http://getprismatic.com/).
 
 This version is increadibly simplistic and is just meant for commuters like me
 that don't own an iPhone. It retrieves articles through the Prismatic API
