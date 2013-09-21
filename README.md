@@ -9,6 +9,8 @@ and presents to you with the help of jQuery Mobile and Angular.JS.
 
 **[Try it out!](http://bripkens.github.io/prismatic-mobile/)**
 
+*Prismatic folks: Thank you for creating this awesome service (and please do not change the API)!*
+
 # Limitations
 Due to browser security policies and the way the Prismatic API works, I could
 not implement certain features that Prismatic web app provides. Among others,
@@ -22,7 +24,7 @@ improve when using this app!
 Another feature of their web app is the ability to *remove articles*,
 i.e. to click the X-Button in their application. Again, I would assume that
 they use this information to build a negative training set. When doing this in
-the web interface, they send an HTTP POST-request. Like before, this is not
+the web interface, they send an HTTP POST-request. As before, this is not
 possible due to the SOP.
 
 # License (MIT)
