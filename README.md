@@ -5,15 +5,15 @@ A very simple mobile (web app) version of
 
 This version is increadibly simplistic and is just meant for commuters like me
 that don't own an iPhone. It retrieves articles through the Prismatic API
-and presents to you with the help of jQuery Mobile and Angular.JS.
+and presents them to you with the help of jQuery Mobile and Angular.JS.
 
 **[Try it out!](http://bripkens.github.io/prismatic-mobile/)**
 
-*Prismatic folks: Thank you for creating this awesome service (and please do not change the API)!*
+*Prismatic folks: Thank you for creating this awesome service (and please do not change the API).*
 
 # Limitations
 Due to browser security policies and the way the Prismatic API works, I could
-not implement certain features that Prismatic web app provides. Among others,
+not implement certain features that the Prismatic web app provides. Among others,
 the Prismatic web app sents HTTP POST-requests every time you click a link.
 I assume that they do this to collect more data about your interests and
 thus to improve their article recommendations. As this mobile app doesn't know
